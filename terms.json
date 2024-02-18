@@ -1,0 +1,10 @@
+{
+    "topic-1":{
+        "title":"Entenda como seus dados são utilizados pelo IF+",
+        "description":"Não utilizamos seus dados de forma indevida nem armazenamos dados pessoais, ao fazer login no IF+ não teremos acesso a sua conta, suas credenciais armazenadas são criptografadas e inacessiveis."
+    },"about-1":{
+        "title":"Por que aparece que foi um login foi feito em outro dispositivo em minha conta do SUAP?",
+        "description":"Quando você faz login usando sua conta do SUAP no IF+ é como se estivesse fazendo diretamente no SUAP mas o dispositivo utilizado é o nosso sitema, você pode identificar nosso sistema quando o dispositivo for um Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36. Em certos casos de queda de energia/instabilidade ou perca de conexão com o SUAP ao estar logado no IF+ os nossos servidores terão que refazer o login em sua conta. isso é feito automaticamente."
+    },
+    "footer":"Atualizado em 18/02/2024"
+}
